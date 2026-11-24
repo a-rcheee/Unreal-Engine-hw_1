@@ -18,6 +18,8 @@ public class HW : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
+			"GameplayTasks",
+			"NavigationSystem",
 			"Slate"
 		});
 
